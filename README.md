@@ -1,286 +1,245 @@
 <div align="center">
 
-# 🔐 PASSWORD ANALYZER
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6A5ACD&center=true&vCenter=true&width=600&lines=PASSWORD+ANALYZER+%F0%9F%94%90;Secure+Your+Digital+Life" alt="Typing SVG" />
+
+<br/>
 
 ```
-██████╗  █████╗ ███████╗███████╗██╗    ██╗ ██████╗ ██████╗ ██████╗ 
-██╔══██╗██╔══██╗██╔════╝██╔════╝██║    ██║██╔═══██╗██╔══██╗██╔══██╗
-██████╔╝███████║███████╗███████╗██║ █╗ ██║██║   ██║██████╔╝██║  ██║
-██╔═══╝ ██╔══██║╚════██║╚════██║██║███╗██║██║   ██║██╔══██╗██║  ██║
-██║     ██║  ██║███████║███████║╚███╔███╔╝╚██████╔╝██║  ██║██████╔╝
-╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ 
-     █████╗ ███╗   ██╗ █████╗ ██╗  ██╗   ██╗███████╗███████╗██████╗ 
-    ██╔══██╗████╗  ██║██╔══██╗██║  ╚██╗ ██╔╝╚══███╔╝██╔════╝██╔══██╗
-    ███████║██╔██╗ ██║███████║██║   ╚████╔╝   ███╔╝ █████╗  ██████╔╝
-    ██╔══██║██║╚██╗██║██╔══██║██║    ╚██╔╝   ███╔╝  ██╔══╝  ██╔══██╗
-    ██║  ██║██║ ╚████║██║  ██║███████╗██║   ███████╗███████╗██║  ██║
-    ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║   ██████╗  █████╗ ███████╗███████╗██╗    ██╗ ██████╗ ██████╗ ██████╗   ║
+║   ██╔══██╗██╔══██╗██╔════╝██╔════╝██║    ██║██╔═══██╗██╔══██╗██╔══██╗  ║
+║   ██████╔╝███████║███████╗███████╗██║ █╗ ██║██║   ██║██████╔╝██║  ██║  ║
+║   ██╔═══╝ ██╔══██║╚════██║╚════██║██║███╗██║██║   ██║██╔══██╗██║  ██║  ║
+║   ██║     ██║  ██║███████║███████║╚███╔███╔╝╚██████╔╝██║  ██║██████╔╝  ║
+║   ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝   ║
+║                                                                       ║
+║        █████╗ ███╗   ██╗ █████╗ ██╗  ██╗   ██╗███████╗███████╗██████╗  ║
+║       ██╔══██╗████╗  ██║██╔══██╗██║  ╚██╗ ██╔╝╚══███╔╝██╔════╝██╔══██╗ ║
+║       ███████║██╔██╗ ██║███████║██║   ╚████╔╝   ███╔╝ █████╗  ██████╔╝ ║
+║       ██╔══██║██║╚██╗██║██╔══██║██║    ╚██╔╝   ███╔╝  ██╔══╝  ██╔══██╗ ║
+║       ██║  ██║██║ ╚████║██║  ██║███████╗██║   ███████╗███████╗██║  ██║ ║
+║       ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝  ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
-### 🚀 A powerful CLI tool that analyzes password strength with entropy calculation and intelligent suggestions
+<h3>🚀 Analyze password strength with advanced entropy calculations and intelligent security recommendations</h3>
 
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Python](https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/Macbillions/PASSWORD-ANALYZER?style=for-the-badge)](https://github.com/Macbillions/PASSWORD-ANALYZER/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Macbillions/PASSWORD-ANALYZER?style=for-the-badge)](https://github.com/Macbillions/PASSWORD-ANALYZER/network)
+
+<br/>
+
+**✨ Your Ultimate Password Security Companion ✨**
 
 </div>
 
 ---
 
+## 📋 Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [How It Works](#how-it-works)
+- [Example Output](#example-output)
+- [Security Best Practices](#security-best-practices)
+- [Contributing](#contributing)
+- [License](#license)
+
+## 🎯 Overview
+
+PASSWORD ANALYZER is a sophisticated command-line tool designed to evaluate password strength using industry-standard security metrics. It provides real-time analysis, entropy calculations, and actionable recommendations to help users create stronger, more secure passwords.
+
 ## ✨ Features
 
-✨ **Core Features:**
-- 📥 **CLI Input**: Enter passwords interactively via command-line
-- 📊 **Length Analysis**: Checks password length and provides recommendations
-- 🔤 **Character Variety**: Detects uppercase, lowercase, numbers, and special symbols
-- 🔢 **Entropy Calculation**: Measures password randomness/security level
-- 💡 **Smart Suggestions**: Provides specific improvement recommendations
-- ⚠️ **Pattern Detection**: Identifies weak patterns like repeating characters and sequences
+- 🔒 **Multi-Factor Analysis** - Evaluates length, character variety, and pattern complexity
+- 📊 **Entropy Calculation** - Mathematical measurement of password randomness
+- 🎯 **Smart Suggestions** - Context-aware recommendations for improvement
+- ⚡ **Real-Time Feedback** - Instant password strength assessment
+- 🎨 **Beautiful CLI Interface** - Color-coded, easy-to-read output
+- 🔍 **Pattern Detection** - Identifies weak patterns like repeating characters and sequences
 
-## How It Works
-
-The tool analyzes passwords across multiple dimensions:
-
-### 1. **Length Analysis**
-- Checks if password meets minimum length requirements
-- Recommends increasing length for stronger security
-
-### 2. **Character Variety**
-- Detects presence of lowercase letters (a-z)
-- Detects presence of uppercase letters (A-Z)
-- Detects presence of numbers (0-9)
-- Detects presence of special symbols (!@#$%^&*, etc.)
-
-### 3. **Entropy Calculation**
-```
-Entropy = log₂(character_space ^ password_length)
-```
-- Measures the randomness and unpredictability of the password
-- Higher entropy = more secure password
-- Calculated based on character space and length
-
-### 4. **Strength Scoring**
-- 0/5: Very Weak
-- 1/5: Weak
-- 2/5: Fair
-- 3/5: Good
-- 4/5: Strong
-- 5/5: Very Strong
-
-### 5. **Pattern Detection**
-- Detects repeating characters (aaa, 111)
-- Detects sequential patterns (123, abc)
-- Provides warnings for these weak patterns
-
-## 🚀 Quick Start
+## 🚀 Installation
 
 ### Prerequisites
-- Python 3.7+
+- Python 3.7 or higher
 
-### Installation
+### Quick Setup
 
-1. Clone the repository:
 ```bash
+# Clone the repository
 git clone https://github.com/Macbillions/PASSWORD-ANALYZER.git
+
+# Navigate to the project directory
 cd PASSWORD-ANALYZER
+
+# Run the tool
+python password_checker.py
 ```
 
-2. Run the tool:
+## 💻 Usage
+
+### Interactive Mode
 ```bash
 python password_checker.py
 ```
 
-Or use the CLI version:
+### CLI Mode
 ```bash
 python cli.py "YourPassword123!"
 ```
 
-### 🎯 Demo
+### Demo Script
+```bash
+python demo.py
+```
+
+## 🔬 How It Works
+
+### Strength Scoring Algorithm
+
+The tool uses a comprehensive 5-point scoring system:
+
+| Score | Rating | Description |
+|-------|--------|-------------|
+| 5/5 | 🟢 Very Strong | Exceeds all security requirements |
+| 4/5 | 🟢 Strong | Meets all security requirements |
+| 3/5 | 🟡 Good | Meets most requirements |
+| 2/5 | 🟠 Fair | Basic security only |
+| 1/5 | 🔴 Weak | Multiple weaknesses |
+| 0/5 | 🔴 Very Weak | Extremely vulnerable |
+
+### Entropy Calculation
+
+Password entropy measures unpredictability using the formula:
+
+```
+Entropy = log₂(character_space^password_length)
+```
+
+**Character Space:**
+- Lowercase only: 26 characters
+- + Uppercase: 52 characters
+- + Numbers: 62 characters
+- + Symbols: 94+ characters
+
+**Example:**
+- 8-character password (all types): ~52.4 bits
+- 12-character password (all types): ~78.7 bits
+- 16-character password (all types): ~105.0 bits
+
+## 📊 Example Output
 
 ```
 ============================================================
 🔐 PASSWORD STRENGTH ANALYSIS
 ============================================================
 
-📝 Password Length: 12 characters
+📝 Password Length: 15 characters
 
 📊 Character Variety:
    ✓ Lowercase letters: Yes
    ✓ Uppercase letters: Yes
    ✓ Numbers: Yes
-   ✓ Special symbols: No
+   ✓ Special symbols: Yes
 
-🔢 Entropy Score: 39.86 bits
+🔢 Entropy Score: 99.15 bits
    (Measures randomness/security level; higher is better)
 
-💪 Strength Level: Good (3/5)
+💪 Strength Level: Very Strong (5/5)
 
-💡 Suggestions:
-   💡 Add special symbols (!@#$%^&*, etc.)
+✅ Excellent! Your password is very strong.
 
 ============================================================
 ```
 
-## Learning Outcomes
+## 🛡️ Security Best Practices
 
-This project teaches you several important programming concepts:
+### Password Recommendations
 
-### 1. **Regular Expressions (Regex)**
-- Pattern matching for character detection
-- Learning to use `re.search()` for flexible pattern matching
-- Understanding character classes and escape sequences
-- Example patterns:
-  - `[a-z]` - lowercase letters
-  - `[A-Z]` - uppercase letters
-  - `\d` - digits
-  - `[!@#$%^&*()...]` - special characters
+1. **Minimum Length:** 12+ characters (16+ recommended)
+2. **Character Variety:** Mix uppercase, lowercase, numbers, and symbols
+3. **Avoid Common Patterns:**
+   - Sequential characters (abc, 123)
+   - Repeated characters (aaa, 111)
+   - Dictionary words
+   - Personal information
+4. **Uniqueness:** Use different passwords for different accounts
+5. **Regular Updates:** Change passwords periodically
+6. **Password Manager:** Consider using a password manager for complex passwords
 
-### 2. **String Manipulation**
-- Length calculations
-- Character-by-character analysis
-- String formatting and output
-- Working with escape sequences
+### Entropy Guidelines
 
-### 3. **Object-Oriented Programming**
-- Class design and structure
-- Encapsulation of related functionality
-- State management with instance variables
-- Method organization and single responsibility
+| Entropy (bits) | Strength Level | Recommendation |
+|---------------|----------------|----------------|
+| < 28 | Very Weak | ❌ Do not use |
+| 28-35 | Weak | ⚠️ Improve immediately |
+| 36-59 | Fair | 🟡 Can be better |
+| 60-127 | Strong | ✅ Good for most uses |
+| 128+ | Very Strong | ✅ Excellent for sensitive data |
 
-### 4. **Mathematical Concepts**
-- Entropy calculation using logarithms
-- Understanding security mathematics
-- Applying algorithmic thinking
-
-### 5. **Security Best Practices**
-- Password strength requirements
-- Character variety importance
-- Pattern weaknesses to avoid
-- Why entropy matters in security
-- The role of length in password security
-
-### 6. **Code Organization**
-- Separating concerns (analysis, scoring, suggestions)
-- Using type hints for clarity
-- Writing clear docstrings
-- Implementing helper methods
-
-## Security Best Practices
-
-1. **Length Matters**: Aim for at least 12 characters
-2. **Variety is Key**: Use mix of uppercase, lowercase, numbers, symbols
-3. **Avoid Patterns**: Don't use sequential numbers or letters
-4. **No Repetition**: Avoid repeating characters
-5. **Entropy Matters**: Higher entropy = harder to crack
-6. **Unique Passwords**: Use different passwords for different accounts
-
-## Technical Details
-
-### Entropy Calculation
-The entropy formula measures how many bits of randomness a password has:
-- Each character type (lowercase, uppercase, numbers, symbols) adds to the character space
-- Larger character space = higher entropy
-- Longer passwords = higher entropy
-- Example: A 12-character password using all character types has ~79 bits of entropy
-
-### Strength Score Calculation
-Points awarded for:
-- 1 point: Length ≥ 8
-- 1 point: Length ≥ 12
-- 0.5 points: Lowercase letters
-- 0.5 points: Uppercase letters
-- 0.5 points: Numbers
-- 0.5 points: Special symbols
-- Maximum score: 5
-
-## Example Passwords
-
-**Very Weak (0/5):**
-```
-password
-12345678
-```
-
-**Weak (1/5):**
-```
-Password
-password123
-```
-
-**Fair (2/5):**
-```
-Password123
-MyPass2024
-```
-
-**Good (3/5):**
-```
-MyPass2024!
-Secure@Pwd9
-```
-
-**Strong (4/5):**
-```
-MySecure@Pass2024
-K7$mPx#9nL2wQ!
-```
-
-**Very Strong (5/5):**
-```
-X9@kL$2mN#vP7wQ!Rs
-Tr0pic@lThunder$2024!
-```
-
-## Code Structure
+## 📁 Project Structure
 
 ```
-password_checker.py
-├── PasswordStrengthChecker (class)
-│   ├── check_password() - Main analysis method
-│   ├── _calculate_entropy() - Calculates security level
-│   ├── _calculate_strength_score() - Determines strength (0-5)
-│   ├── _generate_suggestions() - Creates improvement tips
-│   └── display_results() - Formats and displays output
-└── main() - CLI interface
+PASSWORD-ANALYZER/
+├── password_checker.py    # Main password analysis class
+├── cli.py                 # Command-line interface
+├── demo.py                # Demo script with examples
+├── utils.py               # Utility functions
+├── config.py              # Configuration settings
+├── test_password_checker.py  # Unit tests
+├── LICENSE                # MIT License
+└── README.md             # This file
 ```
 
-## Extending the Tool
+## 🧪 Testing
 
-You can enhance this tool by adding:
+Run the test suite:
+```bash
+python test_password_checker.py
+```
 
-1. **Password Generation**: Generate random strong passwords
-2. **Common Password List**: Check against known weak passwords
-3. **Breach Database**: Check if password appears in known breaches
-4. **Keyboard Pattern Detection**: Detect QWERTY sequences
-5. **File Input**: Analyze multiple passwords from a file
-6. **Batch Testing**: Check multiple passwords at once
-7. **Configuration**: Allow users to set custom rules
-8. **Export Results**: Save analysis results to file
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+
+### Development Setup
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## 📚 Resources
 
 - [NIST Password Guidelines](https://pages.nist.gov/800-63-3/sp800-63b.html)
-- [Python regex documentation](https://docs.python.org/3/library/re.html)
-- [Password Security Best Practices](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
-- [Entropy in Cryptography](https://en.wikipedia.org/wiki/Entropy_(information_theory))
+- [OWASP Password Security](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+- [Password Entropy Explained](https://en.wikipedia.org/wiki/Password_strength#Entropy_as_a_measure_of_password_strength)
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Author
+
+**Macbillions**
+- GitHub: [@Macbillions](https://github.com/Macbillions)
+- Email: annorsamuel208@gmail.com
 
 ---
 
 <div align="center">
 
-### 🌟 Star this repository if you found it helpful!
+### ⭐ Star this repository if you found it helpful!
 
-**Made with ❤️ by [Macbillions](https://github.com/Macbillions)**
+**Made with ❤️ for better password security**
 
-*Learn password security • Build better tools • Stay secure* 🔐
+[Report Bug](https://github.com/Macbillions/PASSWORD-ANALYZER/issues) · [Request Feature](https://github.com/Macbillions/PASSWORD-ANALYZER/issues)
 
 </div>
-#   P A S S W O R D - A N A L Y Z E R 
- 
-
- 
 
