@@ -138,3 +138,17 @@ Thumbs.db
 *.tmp
 backup/
 old_files/
+
+# Documentation files (keep only README.md and LICENSE)
+BEAUTIFUL_GUIDE.md
+CONTRIBUTING.md
+FILE_INDEX.md
+FINAL_SHOWCASE.md
+GITHUB_FINAL_CHECKLIST.md
+GITHUB_READY.md
+GITHUB_STATUS.md
+PROJECT_STRUCTURE.md
+PROJECT_SUMMARY.md
+QUICKSTART.md
+README_GITHUB.md
+password_checker_old.py
